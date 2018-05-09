@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet var rocordButton: UIButton!
+    @IBOutlet var recordButton: UIButton!
     @IBOutlet var recordingLabel: UILabel!
     @IBOutlet var stopRecordingButton: UIButton!
     

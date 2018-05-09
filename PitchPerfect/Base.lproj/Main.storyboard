@@ -52,8 +52,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="recordButton" destination="170-cT-XQf" id="KWw-uZ-epn"/>
                         <outlet property="recordingLabel" destination="yI2-wc-p8n" id="fpn-Uw-aGy"/>
-                        <outlet property="rocordButton" destination="170-cT-XQf" id="cfj-Bq-o9f"/>
                         <outlet property="stopRecordingButton" destination="X4b-RL-aVs" id="JaB-8w-C9s"/>
                     </connections>
                 </viewController>
