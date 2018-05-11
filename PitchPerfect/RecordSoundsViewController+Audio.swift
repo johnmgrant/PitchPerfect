@@ -11,7 +11,7 @@ import AVFoundation
 
 extension RecordSoundsViewController: AVAudioRecorderDelegate {
     
-    // MARK: PlayingState (raw values correspond to sender tags)
+    // MARK: RecordingState (raw values correspond to sender tags)
     
     enum RecordingState { case recording, notRecording }
     
